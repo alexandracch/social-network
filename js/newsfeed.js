@@ -39,12 +39,12 @@ $(document).ready(function() {
       // console.log(downloadURL);
     });
     var appen = '<div class="row">' +
-      '<div class="col s 12 align">' + 
+      '<div class="col s 12 align">' +
       '<div style="display=inline-block" class="img-user"><img src="_photo_"></div>' + '<div class="div-name"><h4></h4></div>' + '<br>' +
       '<img src="_pub_" alt="" class="img-pub">' +
       '</div>' +
       '<br>' + '<br>' +
-      '<a class="a-icon"><i class="material-icons">favorite</i></span></a>' + 
+      '<a class="a-icon"><i class="material-icons">favorite</i></span></a>' +
       '<a class="a-icon"><i class="material-icons">question_answer</i></span></a>' +
       '<a class="a-icon rigth"><i class="material-icons">more_horiz</i></span></a>' +
       '</div>' +
@@ -73,16 +73,23 @@ $(document).ready(function() {
     '<div style="display=inline-block" class="img-user"><img src="_photo_"></div>' + '<div class="div-name"><h4></h4></div>' + '<br>' +
     '<li><span></span><li>' +
     '<br>' + '<br>' +
-    '<a class="a-icon"><i class="material-icons">favorite</i></span></a>' + 
+    '<a class="a-icon"><i class="material-icons">favorite</i></span></a>' +
     '<a class="a-icon"><i class="material-icons">question_answer</i></span></a>' +
     '<a class="a-icon rigth"><i class="material-icons">more_horiz</i></span></a>' +
     '</div>' +
-    '<div></div>' + 
+    '<div></div>' +
     '<br>';
 
     var appenReplace = appen.replace('<span></span>', $textArea.val()).replace('_photo_', localStorage.photo).replace('<h4></h4>', localStorage.name);
     $('#publicaciones').append(appenReplace);
-    
+
     $valueTextTarea = $textArea.val('');
+  });
+
+
+  $('#logout').on('click', function() {
+    firebase.auth().signOut().then(function() {
+      console.log('saliste');
+    });
   });
 });
