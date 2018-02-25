@@ -1,5 +1,8 @@
 # Traveller 
-![traveller](assets/images/traveller.png)  
+
+Red social para viajeros que quieran compartir sus historias y experiencias, creando así una comunidad incentivada a viajar. Los usuarios de Traveller, pueden postear fotos y estados, comentar las historias de sus amigos, tener un perfil, y muchas opciones más.
+
+![travellers](https://user-images.githubusercontent.com/32309484/36639937-ad1b802e-19e4-11e8-9341-7cffcad849b1.JPG)
 
 * **Track:** _Common Core_
 * **Curso:** _Crea tu propia red social_
@@ -262,63 +265,8 @@ primero a jaen en avion y luego agarro unos buses
 
     ![traveller](assets/images/traveller.png)
 
-
-## Agenda
-
-#### Día 1 **Viernes**
-
-
-1. Leer el reto y priorizar sus requerimientos.(10min)
-2. Creación de un plan: Estimación de tiempo/tareas. (10min)
-3. Lluvia de ideas para elegir el tema en el que se basará nuestra red social. (7min)
-4. Elegir las ideas en las que se crea encontrar problámaticas.(7min)
-5. Planificar nuevamente cómo se llevarán a cabo las tareas para testear nuestros posibles temas. (10min)
-
-#### Día 1 **Sábado**
-
-
-1. Leer el reto y priorizar sus requerimientos.(10min)
-2. Creación de un plan: Estimación de tiempo/tareas. (10min)
-3. Lluvia de ideas para elegir el tema en el que se basará nuestra red social. (7min)
-4. Elegir las ideas en las que se crea encontrar problámaticas.(7min)
-5. Planificar nuevamente cómo se llevarán a cabo las tareas para testear nuestros posibles temas. (10min)
-
-
-#### Día 2 **Domingo**
-
-
-1. Testeo de posibles temas.(2h) 
-2. Debatir entre nosotras el resultado (15min)
-3. Encontrar la problemátca (10min)
-4. Armar una solución al problema (10min)
-5. Hacer el primer prototipado (7min) 
-6. Testear el prototipo 1 (1h)
-7. Modificar el primer prototipo según los resultados del testeo (15min )
-8. Testear el segundo prototipo (30min)
-9. Darle un nombre a nuestra solución (5min)
-10. Crear paleta de colores de nuestra web-app.(12min)
-11. Crear un logotipo propio (2h)
-12. Revisar que todo quede en orden para empezar a codificar. 
-13. División de tareas por vistas en la app (5min)
-
-
-#### Día 3 **Lunes**
-
-1. Mostrar lo avanzado (10min). 
-2. Comenzar con funcionalidades. (---)
-
-
-#### Día 4 **Martes**
-
-
-
-
-
 ## Logro
 ![traveller](assets/images/Captura-1.JPG)
 ![traveller](assets/images/Captura-2.JPG)
 ![traveller](assets/images/Captura-3.JPG)
 ![traveller](assets/images/Captura-4.JPG)
-
-
-
