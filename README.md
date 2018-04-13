@@ -4,6 +4,11 @@ Red social para viajeros que quieran compartir sus historias y experiencias, cre
 
 ![travellers](https://user-images.githubusercontent.com/32309484/36639937-ad1b802e-19e4-11e8-9341-7cffcad849b1.JPG)
 
+
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la) 
+
+
 * **Track:** _Common Core_
 * **Curso:** _Crea tu propia red social_
 * **Unidad:** _Crea tu propia red social_
